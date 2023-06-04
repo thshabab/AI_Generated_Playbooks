@@ -9,7 +9,13 @@ This book performs a deep dive into current state of Cybersecurity Automation, S
 
    This project is under active development.
 
-
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 💡 State of Automation
+   
+   Sumo
+   
 .. toctree::
    :maxdepth: 2
    :hidden:
@@ -23,8 +29,12 @@ This book performs a deep dive into current state of Cybersecurity Automation, S
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: 💡 State of Automation
-   
+   :caption: 💡 Playbooks
+
+   Copilot
+   Sentinel
+   PAN
    Sumo
+
 
 
