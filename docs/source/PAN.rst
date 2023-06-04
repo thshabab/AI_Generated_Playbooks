@@ -1,4 +1,4 @@
-API
+Palo Alto Cortex XSOAR
 ===
 
 .. autosummary::
