@@ -9,8 +9,6 @@ This book performs a deep dive into current state of Cybersecurity Automation, a
 
    This project is under active development.
 
-Contents
---------
 
 .. toctree::
    :maxdepth: 2
