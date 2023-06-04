@@ -1,13 +1,7 @@
-Welcome to Lumache's documentation!
+AI Generated Playbooks for Automation and Training
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+**AI Generated Playbooks** is an Open Source Book authored by Tahseen Shabab from Penfield.AI Inc. This book performs a deep dive into current state of Cybersecurity Automation, and how advanced AI Techniques can be leveraged to expedite Automation and Training.
 
 .. note::
 
