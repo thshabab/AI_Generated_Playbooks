@@ -1,4 +1,4 @@
-Usage
+Microsoft Sentinel
 =====
 
 .. _installation:
