@@ -19,7 +19,7 @@ This book performs a deep dive into current state of Cybersecurity Automation, S
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: 🚀 Security Products
+   :caption: 🚀 Security Tools
 
    Copilot
    Sentinel
