@@ -13,8 +13,18 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 🚀 Automation Tools
 
    Copilot
    Sentinel
    PAN
    Sumo
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 💡 State of Automation
+
+
