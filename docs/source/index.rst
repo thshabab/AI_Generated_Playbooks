@@ -26,5 +26,7 @@ Contents
    :maxdepth: 2
    :hidden:
    :caption: 💡 State of Automation
+   
+   Sumo
 
 
