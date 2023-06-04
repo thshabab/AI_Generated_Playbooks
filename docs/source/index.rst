@@ -14,6 +14,7 @@ Contents
 
 .. toctree::
 
-   Microsoft
+   Copilot
+   Sentinel
    PAN
    Sumo
