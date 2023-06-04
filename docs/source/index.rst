@@ -31,10 +31,7 @@ This book performs a deep dive into current state of Cybersecurity Automation, S
    :hidden:
    :caption: 💡 Playbooks
 
-   Copilot
-   Sentinel
-   PAN
-   Sumo
+   playbooks/phishing
 
 
 
