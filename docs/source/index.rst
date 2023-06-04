@@ -14,5 +14,5 @@ Contents
 
 .. toctree::
 
-   usage
+   Microsoft Sentinel
    api
