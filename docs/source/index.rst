@@ -14,5 +14,5 @@ Contents
 
 .. toctree::
 
-   Microsoft Sentinel
-   api
+   Microsoft
+   PAN
