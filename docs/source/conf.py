@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'AI Generated Playbooks'
-copyright = '2021, Graziella'
-author = 'Graziella'
+copyright = '2023, Penfield.AI Inc.'
+author = 'Penfield.AI'
 
 release = '0.1'
 version = '0.1.0'
